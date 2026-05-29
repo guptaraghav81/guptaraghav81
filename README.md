@@ -1,106 +1,89 @@
 <div align="center">
 
-<!-- DYNAMIC HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Raghav%20Gupta&fontSize=90&color=0:0d0d0d,100:1a1a2e&stroke=00ff88&strokeWidth=2&fontColor=00ff88&animation=fadeIn&fontAlignY=55&desc=DevOps%20%7C%20Cloud%20%7C%20Infrastructure%20Engineer&descSize=22&descAlignY=75&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Raghav%20Gupta&fontSize=85&color=0:0a0a0f,50:0d1117,100:0a0a0f&stroke=39d353&strokeWidth=2&fontColor=39d353&animation=fadeIn&fontAlignY=55&desc=DevOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20Infrastructure%20Engineer&descSize=20&descAlignY=75&descColor=8b949e" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=Building+Pipelines+That+Never+Sleep+%F0%9F%9A%80;Orchestrating+Clouds+%E2%98%81%EF%B8%8F+at+Scale;Automating+Everything%2C+Breaking+Nothing+%F0%9F%94%A7;DevOps+%E2%9C%A6+Cloud+%E2%9C%A6+Infrastructure+%E2%9C%A6+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Building+CI%2FCD+Pipelines+That+Never+Sleep+%F0%9F%9A%80;Orchestrating+Cloud+Infrastructure+at+Scale+%E2%98%81%EF%B8%8F;Automating+Everything%2C+Breaking+Nothing+%F0%9F%94%A7;DevOps+%E2%80%A2+Cloud+%E2%80%A2+Infrastructure+%E2%80%A2+Security)](https://github.com/guptaraghav81)
 
 </div>
 
----
-
-<!-- PROFILE VIEWS + BADGES ROW -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=raghavgupta1375&style=for-the-badge&color=00ff88&label=VISITORS&labelColor=0d0d0d)&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/raghavgupta1375?style=for-the-badge&logo=github&logoColor=00ff88&color=0d0d0d&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/raghavgupta1375)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-00ff88?style=for-the-badge&labelColor=0d0d0d)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge&labelColor=0d0d0d&color=00ff88)
+![Profile Views](https://komarev.com/ghpvc/?username=guptaraghav81&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://in.linkedin.com/in/raghav-gupta-79113224b)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:guptaraghav1375@gmail.com)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20To%20Work-39d353?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 <br/>
 
-<!-- ABOUT ME - TERMINAL STYLE -->
+---
+
+## `$ whoami`
+
 ```yaml
-╔══════════════════════════════════════════════════════════════════╗
-║                     ~/raghav-gupta $ whoami                     ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  name       : Raghav Gupta                                       ║
-║  role       : DevOps & Cloud Engineer                            ║
-║  location   : New Delhi, India  🇮🇳                              ║
-║  education  : B.Tech IT @ AKGEC (2022–2026)                      ║
-║  experience : Elevate Labs · ICCP Infotech                       ║
-║                                                                  ║
-║  philosophy : "Infrastructure is code. Automation is freedom."   ║
-║                                                                  ║
-║  currently  : Building bulletproof CI/CD pipelines 🔧            ║
-║               Architecting resilient cloud systems ☁️            ║
-║               Solving 500+ DSA problems & counting 💡            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+name        : Raghav Gupta
+role        : DevOps & Cloud Engineer
+location    : New Delhi, India 🇮🇳
+education   : B.Tech IT @ AKGEC, Ghaziabad (2022 – 2026)
+experience  : Elevate Labs · ICCP Infotech
+contact     : guptaraghav1375@gmail.com · +91 82189 39440
+
+expertise   :
+  - CI/CD Pipeline Design & Automation
+  - Cloud Infrastructure (AWS) at Scale
+  - Containerization (Docker + Kubernetes)
+  - Infrastructure as Code (Terraform)
+  - DevSecOps & Cloud Security
+
+philosophy  : "Infrastructure is code. Automation is freedom."
+currently   : Architecting bulletproof cloud systems ☁️
+              Solving 500+ DSA problems & counting 💡
 ```
 
-<br/>
-
 ---
 
-## ⚡ The Arsenal
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<!-- CLOUD & INFRASTRUCTURE -->
-<table>
-<tr>
-<td align="center" width="50%">
+**Cloud & Infrastructure**
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
 
-</td>
-<td align="center" width="50%">
+**CI/CD & Automation**
 
-### 🔁 CI/CD & DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0d1117)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white&labelColor=0d1117)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+**Languages**
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0d1117)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
 
-</td>
-<td align="center" width="50%">
+**Security & Monitoring**
 
-### 🔐 Security & Monitoring
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![KMS](https://img.shields.io/badge/KMS%20%2F%20SSL-%23FF4500.svg?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS%20VPC-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</td>
-</tr>
-</table>
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117)
+![KMS / SSL](https://img.shields.io/badge/KMS%20%2F%20SSL%2FTLS-%23FF4500.svg?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=0d1117)
+![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -110,11 +93,11 @@
 
 <div align="center">
 
-| 🛰️ Project | 🔧 Stack | 💡 Highlight |
-|---|---|---|
-| **[Nebula — CI/CD Pipeline](https://github.com/raghavgupta1375)** | Jenkins · GitHub Actions · Docker · AWS | Auto build/test/deploy on every push to `main` · DockerHub integration |
-| **[Nova — Resilient Web Deployment](https://github.com/raghavgupta1375)** | EC2 · Load Balancer · Route 53 · ACM | High-availability multi-instance deployment · HTTPS + Auto Failover |
-| **[Kubernetes Minikube Deploy](https://github.com/raghavgupta1375)** | Kubernetes · Minikube · Docker | Pod management · YAML configs · Live health monitoring |
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| **[Nebula — CI/CD Pipeline](https://github.com/guptaraghav81)** | Jenkins · GitHub Actions · Docker · AWS | Auto build/test/deploy on every push to `main` · DockerHub integration · 40% faster deployments |
+| **[Nova — Resilient Web Deployment](https://github.com/guptaraghav81)** | EC2 · Load Balancer · Route 53 · ACM | High-availability multi-instance deployment · HTTPS + Auto Failover |
+| **[Kubernetes Minikube Deploy](https://github.com/guptaraghav81)** | Kubernetes · Minikube · Docker | Pod management · YAML configs · Live health monitoring |
 
 </div>
 
@@ -124,21 +107,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raghavgupta1375&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guptaraghav81&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&ring_color=39d353&include_all_commits=true"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavgupta1375&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaraghav81&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavgupta1375&theme=dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=888888&stroke=00ff88" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=guptaraghav81&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&stroke=39d35320&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
 
 </div>
 
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaraghav81&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820&hide_border=true&custom_title=Contribution+Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaraghav81&bg_color=0d1117&color=39d353&line=39d353&point=c9d1d9&area=true&area_color=39d35315&hide_border=true&custom_title=Contribution+Activity" width="95%"/>
 
 </div>
 
@@ -148,7 +135,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=guptaraghav81&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=guptaraghav81&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="90%"/>
 
 </div>
 
@@ -157,48 +144,49 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🔥  500+ DSA Problems Solved across coding platforms        │
-│  🚀  Automated CI/CD → Cut deployment time by 40%           │
-│  🎓  Mentored 100+ students in Cloud & DevOps @ ICCP        │
-│  🏗️  3-Tier AWS VPC with Transit Gateways deployed          │
-│  🛡️  DevSecOps Hackathon — Cloud Security Automation        │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║  🔥  500+ DSA Problems Solved Across Coding Platforms           ║
+║  🚀  Automated CI/CD → Deployment Time Cut by 40%               ║
+║  🎓  Mentored 100+ Students in Cloud & DevOps @ ICCP            ║
+║  🏗️  3-Tier AWS VPC with Transit Gateways Deployed              ║
+║  🛡️  DevSecOps Hackathon — Cloud Security Automation            ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
+
+> **Setup required** — add the workflow below and the snake will auto-generate from your contributions.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptaraghav81/guptaraghav81/output/dist/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guptaraghav81/guptaraghav81/output/dist/github-contribution-grid-snake.svg"/>
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/guptaraghav81/guptaraghav81/output/dist/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/raghav-gupta-79113224b)&nbsp;&nbsp;
-[![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raghavg849253?s=21)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavgupta1375)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaraghav1375@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://in.linkedin.com/in/raghav-gupta-79113224b)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/guptaraghav81)
+&nbsp;
+[![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/raghavg849253)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:guptaraghav1375@gmail.com)
 
 </div>
 
 <br/>
 
-<!-- FOOTER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d0d,100:00ff8822&section=footer&text=Let%27s%20Build%20Something%20Extraordinary&fontSize=20&fontColor=00ff88&animation=twinkling&fontAlignY=65" width="100%"/>
-
-</div>
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
-
-> ⚙️ *To enable the snake animation, add a GitHub Action in your repo:*
-> `.github/workflows/snake.yml` → generates `dist/github-contribution-grid-snake-dark.svg`
-> Then reference it here:
-
-<!-- Uncomment after setting up the action:
-<img src="https://raw.githubusercontent.com/raghavgupta1375/raghavgupta1375/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:161b22&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
