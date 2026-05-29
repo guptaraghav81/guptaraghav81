@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Raghav%20Gupta&fontSize=85&color=0:0a0a0f,50:0d1117,100:0a0a0f&stroke=39d353&strokeWidth=2&fontColor=39d353&animation=fadeIn&fontAlignY=55&desc=DevOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20Infrastructure%20Engineer&descSize=20&descAlignY=75&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Raghav%20Gupta&fontSize=85&color=0:0d1117,50:0d1117,100:0d1117&stroke=00b4d8&strokeWidth=2&fontColor=00b4d8&animation=fadeIn&fontAlignY=55&desc=DevOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20Infrastructure%20Engineer&descSize=20&descAlignY=75&descColor=90e0ef" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Building+CI%2FCD+Pipelines+That+Never+Sleep+%F0%9F%9A%80;Orchestrating+Cloud+Infrastructure+at+Scale+%E2%98%81%EF%B8%8F;Automating+Everything%2C+Breaking+Nothing+%F0%9F%94%A7;DevOps+%E2%80%A2+Cloud+%E2%80%A2+Infrastructure+%E2%80%A2+Security)](https://github.com/guptaraghav81)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+CI%2FCD+Pipelines+That+Never+Sleep+%F0%9F%9A%80;Orchestrating+Cloud+Infrastructure+at+Scale+%E2%98%81%EF%B8%8F;Automating+Everything%2C+Breaking+Nothing+%F0%9F%94%A7;DevOps+%E2%80%A2+Cloud+%E2%80%A2+Infrastructure+%E2%80%A2+Security)](https://github.com/guptaraghav81)
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=guptaraghav81&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://in.linkedin.com/in/raghav-gupta-79113224b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://in.linkedin.com/in/raghav-gupta-79113224b)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:guptaraghav1375@gmail.com)
 &nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20To%20Work-39d353?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open%20To%20Work-00b4d8?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -81,7 +81,7 @@ currently   : Architecting bulletproof cloud systems ☁️
 **Security & Monitoring**
 
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117)
-![KMS / SSL](https://img.shields.io/badge/KMS%20%2F%20SSL%2FTLS-%23FF4500.svg?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=0d1117)
+![KMS / SSL](https://img.shields.io/badge/KMS%20%2F%20SSL%2FTLS-%2300b4d8.svg?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=0d1117)
 ![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117)
 
@@ -107,15 +107,15 @@ currently   : Architecting bulletproof cloud systems ☁️
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guptaraghav81&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&ring_color=39d353&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guptaraghav81&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&ring_color=00b4d8&include_all_commits=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaraghav81&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaraghav81&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=guptaraghav81&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&stroke=39d35320&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=guptaraghav81&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=90e0ef&stroke=00b4d820&currStreakNum=caf0f8&sideNums=caf0f8" width="60%"/>
 
 </div>
 
@@ -125,7 +125,7 @@ currently   : Architecting bulletproof cloud systems ☁️
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaraghav81&bg_color=0d1117&color=39d353&line=39d353&point=c9d1d9&area=true&area_color=39d35315&hide_border=true&custom_title=Contribution+Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaraghav81&bg_color=0d1117&color=00b4d8&line=00b4d8&point=caf0f8&area=true&area_color=00b4d815&hide_border=true&custom_title=Contribution+Activity" width="95%"/>
 
 </div>
 
@@ -135,7 +135,7 @@ currently   : Architecting bulletproof cloud systems ☁️
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=guptaraghav81&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=guptaraghav81&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="90%"/>
 
 </div>
 
@@ -158,8 +158,6 @@ currently   : Architecting bulletproof cloud systems ☁️
 ---
 
 ## 🐍 Contribution Snake
-
-> **Setup required** — add the workflow below and the snake will auto-generate from your contributions.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptaraghav81/guptaraghav81/output/dist/github-contribution-grid-snake-dark.svg"/>
@@ -187,6 +185,6 @@ currently   : Architecting bulletproof cloud systems ☁️
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:161b22&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:023e8a&section=footer&fontColor=caf0f8&fontSize=16&text=Thanks+for+visiting+%F0%9F%9A%80&fontAlignY=65" width="100%"/>
 
 </div>
