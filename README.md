@@ -138,7 +138,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavgupta1375&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820&hide_border=true&custom_title=Contribution+Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaraghav81&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820&hide_border=true&custom_title=Contribution+Graph" width="95%"/>
 
 </div>
 
@@ -148,7 +148,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raghavgupta1375&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=guptaraghav81&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%"/>
 
 </div>
 
